@@ -1,0 +1,45 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    The diff pointed out which line we should focus on.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    If you'd like to return to a prior version of your work, you'll save a
+    lot of time having a previous version versus manually going back.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    You have natural save points and versions which will represent work done
+    during a particular session or after a particular section of code was
+    modified. Automatically saving creates a bit of ambiguity around
+    versions. This also aids in sharing versions.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Typically, when programming, you'll be working on several files at once,
+    whereas if you're in a Google doc, you're typically only working on that
+    one. The project structure in programming is such that typically the
+    files will be typically be interconnected, versus docs, which have a
+    different workflow.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    "Log" is useful to see the versions that have been committed, when they
+    were committed, who committed them, and what change was made. "Diff" is
+    useful to understand what actual code changed between the commits.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    It's basically a safety net - if you mess up, your working code is still
+    easily recoverable. It's also easier to find where you may have broken
+    something.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I'd like to clone some programs and try to make cool modifications.
