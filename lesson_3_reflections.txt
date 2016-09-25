@@ -36,4 +36,5 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Experimental features, something that is logically different, or any time
+    changes are being made to a project managed by someone else.
