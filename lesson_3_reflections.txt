@@ -29,7 +29,9 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Could simply use email or a shared drive. The shared drive would eliminate
+    the need for many of these commands, but be far less powerful. Email would
+    have more versioning capabilities, but is very clunky.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
